@@ -1,1 +1,1 @@
-# SPAAM24
+# SPAAM24Just an example repo
