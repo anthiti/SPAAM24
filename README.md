@@ -1,1 +1,5 @@
-# SPAAM24Just an example repo
+# SPAAM24
+
+Just an example repo
+
+My name is Anthi and I love git
